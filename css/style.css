@@ -1,0 +1,157 @@
+body a:hover{
+	text-decoration: none;
+}
+body a{
+	color: red;
+}
+.logo-top{
+	background-color: black;
+	padding: 7px 0 7px 0;
+	background: #1F2021;
+	font-size: 13px;
+}
+.logo p{
+	text-align: right;
+	color: #f2e7e7;
+}
+
+.des img{
+	float: right;
+}
+
+.menu ul{
+	padding-top: 38px;
+	font-size: 18px;
+}
+.links li a{
+	padding: 10px;
+	color: white;
+}
+.links li a:hover {
+	text-decoration: none;
+	background: white;
+	border-radius: 4px;
+	color: black;
+}
+.header{
+	background: url('../photo/header.jpg.');
+}
+.wrap h1{
+	color: white;
+}
+.demo p{
+	color: #E5E5E5;
+	text-shadow: 0 2px 1px rgba(0,0,0,0.3);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-style: italic;
+	margin:20px;
+}
+.picture img{
+		margin: 20px;
+}
+.content h1{
+	margin-top: 44px;
+	margin-bottom: 44px;
+}
+.content img{
+	margin: 18px;
+}
+.yoo{
+	margin-top: 20px;
+	font-size: 20px;
+	border:  1px solid #ddd;
+}
+.yoo li{
+	margin: 22px;
+}
+.yoo li a{
+	text-decoration: none;
+	color: #666;
+}
+.bro{
+	font-size: 13px;
+	padding: 0px;
+}
+.infor h1{
+	text-align: right;
+	color: white;
+}
+.egn{
+	background:#333;
+	border-radius: 5px;
+	margin-top: 40px;
+}
+.face{
+	text-align: center;
+
+}
+.face h3{
+	margin-top: 27px;
+}
+.face h3 a {
+	text-decoration: none;
+	color: rgb(107, 217, 236);
+}
+.zxc{
+	margin: 40px;
+}
+.footer{
+	background: #333;
+	text-align: right;
+}
+
+.paragraph p{
+	font-size: 11px;
+	text-align: left;
+	color: #646666;
+	margin-top: 55px;
+}
+.run{
+	margin:24px;
+}
+.som a{
+	border:1px solid #d3d3d3;
+	padding: 10px;
+	color: #444441;
+}
+.som a:hover{
+	text-decoration: none;
+	color: #333;
+}
+.som strong{
+	color: red;
+}
+.event{
+	text-align: right;
+	margin-top: 20px;
+}
+.event a{
+	color: red;
+}
+.event a:hover{
+	text-decoration: none;
+}
+.fav {
+	margin-top: 20px;
+	float: right;
+}
+.wew a{
+	color: red;
+}
+.wew a:hover{
+	text-decoration: none;
+}
+.hdd div a{
+	color: red;
+}
+.spon , .head ,.hola{
+	margin-top: 20px; 
+}
+
+.head p{
+	margin-bottom: 30px;
+}
+.kel img , .kel p , .kel h2 , .kel ul li{
+	margin: 20px;
+}
